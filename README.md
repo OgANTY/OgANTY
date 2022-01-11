@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OgANTY
+- 👋 Hi, I’m @OgANTY aka [77]anty
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning how to code in games
 - 💞️ I’m looking to collaborate on gaming
