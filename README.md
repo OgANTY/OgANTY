@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming.
 - 🌱 I’m currently learning how to code in games.
 - 💞️ I’m looking to collaborate on gaming.
-- 📫 How to reach me your literally looking at my profile right now.
+- 📫 How to reach me: Your literally looking at my profile right now.
 
 <!---
 OgANTY/OgANTY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
